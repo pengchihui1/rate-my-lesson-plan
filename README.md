@@ -11,8 +11,8 @@ using a BBC Microbit to rate lessons.
 
 ## How to use
 
-* Teachers - see `teachers.md`.
-* Students - see `students.md`.
+* Teachers - see [teachers.md](teachers.md).
+* Students - see [students.md](students.md).
 
 ## Contributors
 
