@@ -11,7 +11,8 @@ using a BBC Microbit to rate lessons.
 
 ## How to use
 
-See `getting-started.md`.
+* Teachers - see `teachers.md`.
+* Students - see `students.md`.
 
 ## Contributors
 
